@@ -1,4 +1,4 @@
-# VulnerableWebView
+# Vulnerable WebView
 
 This is an example application of a webview that fires an intent with URL parameter as an extra to redirect to a site within a webview client.
 Please feel free to use this application to perform demo of vulnerable webview attacks.
